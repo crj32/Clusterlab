@@ -1,4 +1,4 @@
 # Clusterlab
 Simulate gaussian clusters
 
-Source code: https://intobioinformatics.wordpress.com/source-code/
+Source code zipped: https://intobioinformatics.wordpress.com/source-code/
